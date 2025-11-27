@@ -63,7 +63,7 @@ int main()
         {
             printf("\nInvalid choice. Please try again.\n");
         }
-        printf("\nDo you want to perform another transaction? (Y/N): ");
+        printf("\nDo you want to perform another transaction?: ");
         scanf(" %c", &continueTransaction);
     }
 
